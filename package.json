@@ -1,0 +1,15 @@
+{
+  "name": "scrolltrigger-svg-text-mask",
+  "version": "1.0.0",
+  "description": "scroll trigger svg text mask using gsap",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "scrolltrigger-svg-text-mask"
+  },
+  "author": "QuickSilver",
+  "license": "ISC"
+}
